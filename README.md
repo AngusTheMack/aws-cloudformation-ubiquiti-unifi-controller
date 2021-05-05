@@ -1,4 +1,10 @@
 # Ubiquiti Controller Stack
+- [Ubiquiti Controller Stack](#ubiquiti-controller-stack)
+  - [Before Creating the Stack](#before-creating-the-stack)
+  - [Creating Stack](#creating-stack)
+    - [CLI](#cli)
+    - [Console](#console)
+  - [Afterwards...](#afterwards)
 
 This is a barebones AWS Cloudformation stack template for the Ubiquiti Unifi Cloud Controller. 
 
